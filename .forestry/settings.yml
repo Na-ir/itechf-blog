@@ -1,9 +1,20 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: static/images
+  label: Images
+  match: "**/*"
+- type: heading
+  label: MyHeading
+- type: directory
+  path: ''
+  label: Files
+  create: all
+  match: "**/*"
 - type: directory
   path: content/en
   label: En
@@ -29,7 +40,7 @@ sections:
   label: Zh tw
   create: all
   match: "**/*"
-upload_dir: static/uploads
+upload_dir: static/images
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
