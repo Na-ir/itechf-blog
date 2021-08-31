@@ -1,7 +1,7 @@
 +++
-title = "20+ Popular Blog Ideas For Beginners In 2021"
+title = "20+ Popular Blog Ideas शुरू करने के लिए"
 author = "Iffat Zia"
-description = "Blog Ideas For Beginners Are you looking to start a blog? That is great I would like to congratulate a simple purpose, to share with new bloggers some examples of successful and famous blogs"
+description = "Bक्या आप अपना Blog शुरू करना चाहते हैं ये बहुत अच्छा विचार है इसके लिए मे आपको बधाई देना चाहता हुँ इस आर्टिकल में  न्यू  Blog शुरू करने के  लिए ढेर सारा topic शेयर कर रहा हूं इनमें से कोई भी topic अपने Blog के लिए चुन सकते हैं। "
 #url = "/blog-ideas-for-beginners/"
 images = [
   "images/2021/05/Blog-Ideas.jpg"
@@ -20,15 +20,15 @@ toc = true
 reward = false
 +++
 
-These days everyone wants to earn some money online. And there are so many ways to earn online. The most effective and popular method is creating a blog. Creating a random blog not going to work in this very competitive market. First, you need to find out a Niche for your blog.
+आजकल हर कोई ऑनलाइन कुछ ना कुछ कर रहा है और ऑनलाइन से पैसे भी कमा रहा है। ऑनलाइन पैसे कमाने के बहुत सारे तरीके हैं सबसे ज्यादा लोकप्रिय तरीका खुद का Blog बनाना एक अच्छा सा और interesting Blog जिससे कि ऑनलाइन पैसे कमाए जा सके लेकिन सबसे पहले Blog लिखने के लिए एक Niche को चुनना बहुत जरूरी है। जिसके बारे में आप लिखना चाहते है पहले से उस Niche के बारे में आपके पास जानकारी होना चाहिए।   
 
-## What is Niche
+## Niche क्या हैं 
 
-A **Niche** is a topic or category that caters to a small segment of a large market by focusing on a common, specific interest. A niche refers to the segment of the market, not including everything in the market. If you target any particular niche you can achieve success easily as compare to miscellaneous type blog.
+**Niche** एक अच्छा सा topic जो सरल शब्दों में हो और पढ़ने में interesting हो लोगों को पढ़ने में अच्छा लगता हो। आज इंटरनेट में हर topic में जानकारी आसानी से मिल जाता है। user का ध्यान आपके शब्दों पर ज्यादा होना चाहिए। user  आपके Blog में हर एक आर्टिकल को पढ़कर अच्छा महसूस करें। आपको ऑनलाइन पैसे कमाने के लिए इस बड़े बाजार का छोटा सा हिस्सा बनना होगा और एक अलग niche अपने Blog के लिए तलाश करना होगा जिससे आप आसानी से ऑनलाइन पैसे कमा सकते हैं और आप एक सफल Blogger बन सकते हैं। 
 
-## Blog Ideas For Beginners
+## Blog शुरू करने के लिए Ideas
 
-**Are you looking to start a blog**? That is great we would like to congratulate you on making this decision. We have created this article for beginners for a simple purpose, to share with new bloggers. because new bloggers maybe don&#8217;t know about Blog Idea which they can start
+**क्या आप एक Blog शुरू करना चाह रहे हैं**? यह बहुत अच्छा है, हम आपको यह निर्णय लेने पर बधाई देना चाहते हैं। हमने इस आर्टिकल को नए Blogger के साथ शेयर करने के लिए एक आसान सरल उद्देश्य के लिए लिखा है जो लोग ब्लॉक शुरू करना चाहते हैं। या Blog के बारे में जानकारी हासिल करना चाहते हैं वह इस आर्टिकल को पढ़कर समझ सकते हैं क्योंकि नए Blogger  शायद Blog Ideas के बारे में नहीं जानते हैं जिसे वे शुरू करना चाहते हैं। 
 
 Surely, these niche blog examples will motivate you to begin your own blog.&nbsp;We chose some of the currently most famous niches and chose several blog examples for each niche. This list should encourage you to create your own personal blog in a niche that you are excited about.
 
