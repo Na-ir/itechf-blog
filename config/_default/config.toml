@@ -1,11 +1,11 @@
-baseURL = "https://example.com"
-title = "Hugo Bootstrap"
+baseURL = "https://itechf.com"
+title = "I Tech Fact"
 theme = "hugo-theme-bootstrap"
-copyright = "Copyright © 2016-{year} Razon Yang. All Rights Reserved."
+copyright = "Copyright © 2020-{year} iTechf. All Rights Reserved."
 
 # Multilingual mode
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true # If you use only one language comment this option
+defaultContentLanguageInSubdir = false # If you use only one language comment this option
 #disableLanguages = ["fr", "zh-cn" ,"zh-tw"] # For disable one or more language
 
 # Pagination
@@ -16,7 +16,7 @@ paginate = 5
 # disqusShortname = "yourdiscussshortname"
 
 # Google analytics
-# googleAnalytics = "UA-123-45"
+# googleAnalytics = "UA-186342590-1"
 
 enableRobotsTXT = true
 

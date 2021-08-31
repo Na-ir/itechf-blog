@@ -6,8 +6,8 @@ description = "An extreme fast, responsive and feature-rich blog theme for Hugo"
 keywords = "Hugo, Bootstrap, Blog Theme"
 # images = ["site-feature-image.jpg"]
 
-# logo = "images/logo.png" # Logo image. Default to "images/logo.webp".
-brand = "BOOTSTRAP"
+logo = "images/itechf-logo.png" # Logo image. Default to "images/logo.webp".
+#brand = "ITECHF"
 # menusPosition = "left" # Menus position: right(default), left or center.
 
 palette = "blue" # Default palette. Optional.
@@ -28,7 +28,7 @@ googleAdsense = ""
 # toc = false # Disable TOC globally.
 # breadcrumb = false # Disable breadcrumb
 
-# poweredBy = false # Whether to show powered by.
+poweredBy = false # Whether to show powered by.
 
 # readingTime = false # Whether to display the reading time.
 # postDate = false # Whether to display the post date in the post meta section.
@@ -52,6 +52,9 @@ titleCase = true # Capitalized title.
 [codeBlock]
   # maxLines = 8
   lineNos = false # true/false represents that show/hide the line numbers by default.
+
+[permalinks]
+posts = '/:year/:month/:title/'
 
 [post]
   # excerpt = "description"
