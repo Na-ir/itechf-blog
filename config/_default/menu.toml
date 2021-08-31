@@ -10,3 +10,28 @@
 # url = "https://github.com/razonyang/hugo-theme-bootstrap"
 #  pre = '<i class="fab fa-fw fa-github"></i>'
 #
+
+[[footer]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+
+[[footer]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+
+[[footer]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+
+[[footer]]
+  identifier = "privacy-policy"
+  name = "Privacy Policy"
+  url = "/privacy-policy/"
+
+[[footer]]
+  identifier = "terms-and-conditions"
+  name = "Terms and Conditions"
+  url = "/terms-and-conditions/"
