@@ -6,12 +6,14 @@ webhook_url:
 sections:
 - type: heading
   label: Content
-- type: document
-  path: static/images
-  label: Images
 - type: directory
   path: content/en
   label: En
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/hi
+  label: Hi
   create: all
   match: "**/*"
 upload_dir: static/images
