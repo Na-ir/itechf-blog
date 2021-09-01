@@ -1,5 +1,5 @@
 +++
-title = "अबाउट "
+title = "About"
 description = "Itechf, दुनिया का प्रमुख टेक ब्लॉग"
 author = "ahmad"
 date = "2021-01-01T15:12:36"
