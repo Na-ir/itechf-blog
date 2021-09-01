@@ -19,54 +19,50 @@ toc = true
 reward = false
 +++
 
-Keyword Research is the heart of blogging. If you pick the right keyword you can succeed soon or later. and wise versa if you choose keywords without any research you may fail and all your efforts can be wasted. It may be a form of money it may be your precious time. 
+आप एक Blogger है ,या ब्लॉग्गिंग स्टार्ट किया है तो आपके के मन में यह सवाल जरूर आता होगा कि Keyword Research Method क्या हैं अपने blog पर traffic लाने के लिए Keyword Research करते हैं आपको इन 2 बातों पर ध्यान देना होगा,पहला है high quality article और दूसरा है keyword research.यदि आप इन दो बातों पर ज्यादा ध्यान देते हैं तो अपने post को rank करने के लिए आपको SEO में ज्यादा कुछ करने की जरूरत नहीं है। 
 
-Keyword Research is one of the most important aspects of SEO that can improve your searchability for the terms which your target audience is searching for. 
-
-Your keyword research strategy shouldn’t just revolve around picking keywords through competitor keyword research but go way beyond that, finding all the relevant keywords, performing keyword analysis, and then finalize the keywords which can make your blog post highly searchable to your target audience.
-
-As you read this guide further, you will get to learn some advanced keyword research strategies using Free and Paid Keyword tools. 
-
-Let’s start with some basic terminologies and then move towards different keyword research techniques.
+अगर आप सही कीवर्ड चुनते हैं तो आप जल्दी या बाद में सफल हो सकते हैं। और इसके विपरीत अगर आप बिना किसी खोज के कीवर्ड चुनते हैं तो आप असफल हो सकते हैं और आपके सभी कोशिश बर्बाद हो सकते हैं। आज हम इस आर्टिकल में Keyword Research क्या है, Keyword Research कैसे करते हैं, Free Keyword Research Method क्या है, इन सब टॉपिक पर बात करेंगे। 
 
 
 **Don't Miss:** [Popular Blog Ideas For Beginners](/blog-ideas-for-beginners/)
 
-## What are keywords?
+## Keywords क्या हैं?
 
-Keywords (sometimes referred to as **SEO keywords**) are any words or phrases that a user types into the search engine to find certain information on the internet. The keyword is a gateway that leads people to the organic search results and ultimately, to the website where they find what they’re looking for.
+Keyword क्या है – Internet पर कुछ भी ढूंढने के लिए हम कीवर्ड का इस्तेमाल करते है। क्युकी गूगल keyword से ही समझ पाता है की content किस बारे में है। Keywords ऐसे important Words होते हैं जिससे की **Search Engine** को ये पता चलता है की आपकी Website या Blog किस बारे में है। 
 
-That is why finding the right keywords is so important in SEO. Once you find phrases people use when looking for things from your niche, you can adjust your content strategy and optimization so that you target these phrases. As a result, you’ll rank better and get more visitors.
+कीवर्ड एक ऐसा शब्दः या वाक्य होता है जिसके द्वारा लोग आपकी post को सर्च इंजनों में आसानी से ढूंढ सकते हैं। जिस टॉपिक पर आप पोस्ट लिख रहे हैं उसे ज्यादातर लोग किस तरह से गूगल पर सर्च करते हैं यह बहुत important रखता है क्योंकि इस हिसाब से आपको अपनी पोस्ट में शब्दों को पेश करना पड़ता है। 
 
-The keywords are discovered through a process called **keyword research**.
+एक उदाहरण से समझते हैं Keyword क्या है  आपने एक पोस्ट लिखा "सुबह जल्दी कैसे उठें" आपका Keyword हो गया सुबह जल्दी कैसे उठे फिर इंटरनेट यूजर आपके पोस्ट को गूगल पर सर्च करने के लिए टाइप करता है 'How to wake up early in hindi' कर सकते हैं। 
 
-## Why Is Keyword Research Important?
+तो यह भी आपका एक keyword हो गया। जिससे कि यूज़र को आसानी से आपका पोस्ट मिल गया इसी को Keyword  कहते हैं। आप अपने आर्टिकल में इन sentences/phrases को शामिल करके अपने आर्टिकल को Keyword और SEO optimised बना सकते हैं।
 
-Keyword Research is the process of finding the best and most relevant keywords to include in your content that may search your target audience. Making the right keyword plan with proper keyword research and placement is vital for improving the searchability of your content for the right audience.
+## Keyword Research क्यों महत्वपूर्ण है ?
 
-### Why to do keyword research?
+keyword Research क्यों महत्वपूर्ण है आइए जानते हैं कि जिस टॉपिक पर आप ब्लॉक पोस्ट लिखना चाहते हैं उसमें लोगों का इंटरेस्ट है या नहीं। और वे कौन-कौन से कीवर्ड्स है जिसकी सहायता से आप अपनी पोस्ट को आसानी से रैंक करवा सकते हैं। 
 
-Keyword Research helps to optimize your content according to search engines such as Google, Bing, etc. it is one of the most important SEO tasks and a great way to reach more people with your content.
+क्योंकि कीवर्ड रिसर्च से पता चल जाता है कि यूजर क्या तलाश कर रहे हैं और कौन से कीवर्ड का सर्च वॉल्यूम अच्छा है। साथ ही कौन से कीवर्ड्स की रैंकिंग अच्छी है। और कौन से कीवर्ड्स का कंपैरेटिव स्कोर कम है। इन सब बातों को जानने के लिए कीवर्ड रिसर्च करना बहुत जरूरी है। 
 
-### How to do keyword research?
+### keyword research क्यों करें ?
 
-Well, this is something this guide will help you with. You don’t have to worry, keyword research is no rocket science. Once you understand the basics and learn some proven strategies 😉. In this process, you can do manual or with the help of some free and paid tools.
+keyword research SEO का एक महत्वपूर्ण Part है, इसकी मदद से आप अपने ब्लॉग पोस्ट को सर्च इंजन में रैंक करवा सकते हैं और अपने ब्लॉग पर ट्राफिक ला सकते हैं। अगर हम Keyword को बिना सर्च किये अपनी blog पोस्ट को publish करे। 
 
-### When to do keyword research?
+इसका परिणाम यह होता है कि Blog Post को Rank करवाना मुश्किल हो जाता है। साथ ही Traffic का नुकसान होता है, सो अलग। इसीलिए कीवर्ड रिसर्च बहुत जरूरी है।
 
-Keyword research is usually the first step of search engine optimization of any website and blog.
+### keyword research कैसे करें ?
 
-You’ll definitely need to do keyword research when you’re:
+अब सवाल यह है कि Keyword Research कैसे करें मतलब कि कीवर्ड रिसर्च करने का सही तरीका क्या है? सबसे पहले उस टॉपिक को सिलेक्ट कीजिए जिस पर आपको पोस्ट लिखनी है। उसके बाद अपने Topic से Related Keyword  को गूगल पर सर्च करके मालूम करें। 
 
-  * looking for a new blog niche to start 
-  * looking for new content ideas for your blog or video
-  * optimizing your existing content to improve search visibility.
+Keyword Research करते समय हमें बहुत से Keywords मिलते हैं जिस पर कि आप Post लिख सकते हैं। लेकिन आपके लिए सबसे सही Keyword का चुनाव करना कुछ चीजों पर निर्भर करता है जैसे कि Search Volume क्या है?, SEO Difficulty क्या है?, CPC क्या है? आपको इन्हीं चीजों के आधार पर अपने लिए सबसे सही Keyword को चुनना है।
+
+### keyword research कब करें ?
+
+keyword research तब करना चाहिए जब आप एक नया वेबसाइट या ब्लॉग बनाना चाहते हैं तो आपको keyword research करने की आवश्यकता होती है। क्योंकि ब्लॉग के लिए आपको आर्टिकल लिखना है और आर्टिकल को सर्च इंजन ऑप्टिमाइजेशन पर रैंक करवाने के लिए आपको keyword research करने की जरूरत पड़ती है। जब आप कोई नया पोस्ट लिखना चाहते हैं तब आपको keyword research करना चाहिए।  
 
 ### Who should do keyword research?
 
 Any website owner, blogger, online marketer, or SEO specialist who wants to rank higher on search engines. You can also perform Keyword research for someone who doesn&#8217;t want to do research themself.
 
-## Terminologies related to Keyword Research
+## Keyword Research से Related Terminologies
 
 Let’s start with some basic terminologies you will come across while doing keyword research. Here I am using A Paid tool Ahref which offers some free keyword research stuff. 
 
