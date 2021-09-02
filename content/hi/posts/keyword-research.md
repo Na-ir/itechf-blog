@@ -26,7 +26,7 @@ reward = false
 
 **Don't Miss:** [Popular Blog Ideas For Beginners](/blog-ideas-for-beginners/)
 
-## Keywords क्या हैं?
+## Keywords क्या हैं ?
 
 Keyword क्या है – Internet पर कुछ भी ढूंढने के लिए हम कीवर्ड का इस्तेमाल करते है। क्युकी गूगल keyword से ही समझ पाता है की content किस बारे में है। Keywords ऐसे important Words होते हैं जिससे की **Search Engine** को ये पता चलता है की आपकी Website या Blog किस बारे में है। 
 
@@ -58,10 +58,11 @@ Keyword Research करते समय हमें बहुत से Keyword
 
 keyword research तब करना चाहिए जब आप एक नया वेबसाइट या ब्लॉग बनाना चाहते हैं तो आपको keyword research करने की आवश्यकता होती है। क्योंकि ब्लॉग के लिए आपको आर्टिकल लिखना है और आर्टिकल को सर्च इंजन ऑप्टिमाइजेशन पर रैंक करवाने के लिए आपको keyword research करने की जरूरत पड़ती है। जब आप कोई नया पोस्ट लिखना चाहते हैं तब आपको keyword research करना चाहिए।  
 
-### Who should do keyword research?
+### keyword research किसे करनी चाहिए ?
 
-Any website owner, blogger, online marketer, or SEO specialist who wants to rank higher on search engines. You can also perform Keyword research for someone who doesn&#8217;t want to do research themself.
+keyword research उस व्यक्ति को करना चाहिए जो वेबसाइट या ब्लॉगर का मालिक हो या SEO विशेषज्ञ जो सर्च इंजन के बारे में ज्यादा नॉलेज रखता हो keyword research  आप किसी व्यक्ति से करवा सकते हैं या खुद कर सकते हैं। 
 
+बस यह बात ध्यान में रखें आप जो भी keyword research कर रहे हैं Searching Volume कितना है, और क्या इस keyword को अच्छे से rank करवा सकते हैं गूगल में जिससे आपके वेबसाइट में ट्राफिक आ सके। 
 ## Keyword Research से Related Terminologies
 
 Let’s start with some basic terminologies you will come across while doing keyword research. Here I am using A Paid tool Ahref which offers some free keyword research stuff. 
@@ -84,13 +85,15 @@ Step 3: Select the Find keyword button you will prompt to pass the captcha chall
 
 where you will see Keyword, KD, Volume, and Updated field lets discuss what is this term &#8221; Keyword &#8221; you already know so lets start with Volume.
 
-### Volume
+### Search Volume क्या होता है ?
 
-Keyword Search Volume The total number of times a keyword is searched in a specific period of time. In most cases, this will be measured monthly. In Above Screenshot you can clearly see volume data.
+Search Volume मतलब कि वह Keyword महीने में कितनी बार Google पर सर्च किया जाता है। अगर कोई Keyword महीने में 2000 बार सर्च किया जाता है तो उसकी Search Volume 2000 होगी। अगर आप ज्यादा Search Volume वाले Keyword पर Post लिखते हैं तो आपके blog पर traffic भी अधिक आएगा।लेकिन ज्यादा search volume वाले keywords पर अधिक competition होता है।
 
-### KD (Keyword Difficulty)
+### KD (Keyword Difficulty) क्या होता है ?
 
-This is an estimated rating that helps you understand how difficult it will be to rank for a keyword. Different SEO tools display it in different ways. In Above Screenshot you can clearly see KD values lower the KD values are good for ranking.
+keyword difficulty को समझना बहुत जरूरी है। यदि आप Blogging में सफलता पाना चाहते हैं तो आपको keyword difficulty को समझना होगा। keyword difficulty का सीधा सा मतलब है कि कोई keyword को Google पर first page में rank करवाने में कितनी मुश्किल का सामना करना पड़ता है। इसे कई बार SEO difficulty, Ranking difficulty भी बोलते है। keyword difficulty को 1-100 के बीच में नापा जाता है।
+
+0 से 10 के बीच वाली keyword difficulty को easy समझा जाता है। 11 से 30 के बीच वाली keyword difficulty को Medium समझा जाता है। 31 से 70 के बीच वाली keyword difficulty को Hard समझा जाता है। 71 से 100 के बीच वाली keyword difficulty को Super Hard  समझा जाता है। 
 
 ### Updated
 
@@ -100,23 +103,25 @@ so far you have seen some keyword suggestions about our seed keyword term **Emai
 
 apart from this, there are some other terms which we need to know 
 
-### Keyword Density
+### Keyword Density क्या होता है ?
 
-The total number of times you use a keyword in your content. This used to be a big keyword ranking factor in previous years but doesn’t hold monumental importance these days.
+आप अपने आर्टिकल में कितनी बार  targeted keyword यूज करते है। एक उदाहरण से समझते हैं, अगर किसी आर्टिकल में 700 शब्द हैं और 7 बार targeted keyword का यूज किया है, तो इसका मतलब है कि आर्टिकल में Keyword Density 1% है।
 
-### Focus Keyword (Main Keyword)
+Keyword Density बहुत कम मायने रखती है। गूगल user experience को ध्यान में रखते हुए आर्टिकल लिखने का सुझाव देता है। अपने आर्टिकल में कीवर्ड को स्मार्ट तरीके से यूज करें और अपने कीवर्ड को सही स्थानों पर रखें। इससे आपको बेहतर रिजल्ट मिलेंगे।
 
-The focus keyword is the main keyword you want to target on your page. The key to rank your content for the focus keyword is to ensure that your content justifies and covers all the important points related to it.
+### Focus Keyword क्या होता है ?
 
-### Keyword Gap
+Focus keyword एक ऐसा keyword होता है जिस पर ज्यादा फोकस किया जाता है मतलब की एक ऐसा कीवर्ड जो गूगल को ये बता सके की आपका पोस्ट का Main Topic क्या है और जब गूगल समझ जाता है तो आपका पोस्ट रैंक होने लगता है | यह हमारे आर्टिकल का Title होता है जिससे हमारे आर्टिकल को पहचान मिलती है। और साथ मे यह हमारे आर्टिकल को रैंक कराने की क्षमता भी रखता है।
+### Keyword Gap क्या होता है ?
 
-The keyword gap is the difference between your keywords and your competitors’ keywords. Keyword gap analysis is one of the most important parts of competitors’ keyword research. 
+Keyword Gap आपके कीवर्ड और आपके Competitors के Keyword के बीच का अंतर बताता है। या आपको उन कीवर्ड को खोजने में मदद करता है जिन Keyword  को आप खोजना चाहते ह।  इस जानकारी से आप अपने पास एक Keyword की लिस्ट बना सकते हैं जिससे आप अपने  Competitors से प्रतियोगिता का सकते हैं। 
+### Keyword Ranking क्या होता है
 
-### Keyword Ranking
+जब आप एक आर्टिकल लिखते हैं तो उसमें कुछ स्पेशल Keyword भी डालते हैं और सभी Keyword का अपना एक रैंक होता है जो समय समय पर बदलता रहता है।  हर एक Keyword का रैंक चेक करने के लिए गूगल पर जाकर टाइप करते हैं उसकी Keyword को और यह चेक करते हैं। 
 
-The position for which your page is ranking on the SERPs for a certain keyword.
+गूगल के कौन से पेज पर यह Keyword शो कर रहा है। जहां से आपको उसकी Keyword के मदद से आपका आर्टिकल गूगल के फर्स्ट पेज पर रैंक करता है उस पोस्ट पर आर्गेनिक व्यू मिलना शुरु हो जाए तो हम उसे कीवर्ड रैंकिंग कहते है। 
 
-### Keyword Value (in CPC)
+### Keyword Value (in CPC) क्या होता है
 
 Keyword value shows the potential of the traffic that comes through that keyword. It is measured in CPC (Cost-Per-Click). The value can certainly differ (at times to a large extent) from tool to tool.
 
@@ -130,23 +135,24 @@ You can clearly see the question keyword in the below screenshot.
 
 ![Question Email Marketing](/images/2021/07/Question-Keyword-Email-Marketing.png)
 
-### Longtail Keywords
+### Longtail Keywords क्या होता है ?
 
-While there is no standard word count, we consider that keywords four or more words long can be considered as longtail keywords. 
+Long Tail Keywords एक तरह का ऐसा keyword होता  जिनमें 4 या उससे अधिक words शामिल होते है या कोई पूरा का पूरा phrase होता है। किसी भी New Blogger को अगर अपनी साइट को कम से कम समय में रैंक कराना हैं तो उसे Blog Post के लिए ज्यादा से ज्यादा Long Tail Keywords को Use करना चाहिए। जब आप इस तरह के keywords से अपनी साइट को Optimize करते है, तो आपको अच्छा रिजल्ट मिलता है और इस तरह के keywords पर competition भी बहुत कम होता है।
 
-Though the search volume for these keywords is usually pretty low, they are VERY specific. The potential they have for conversions and attracting highly relevant traffic is way greater than shorter, general keywords with large search volumes.
+ऊपर दिए गए स्क्रीनशॉट में आप Long tail keywords को  देख सकते। 
 
-You can clearly see the longtail keyword in the above screenshot.
+### User Intent for a Keyword क्या होता है ?
 
-### User Intent for a Keyword
+Search Intent को user Intent और audience Intent भी कहते है जिसका मतलब होता है user के इरादे की वो एक Specific Keywords से Search Engine में क्या ढूंढ़ना चाहता है।और इंटरनेट में उपलब्ध Website Content से वो उस website/Blog को सामने लाता है जिस में user के लिए सही Information दी हुए होते है ।
 
-In simple words, user intent for a keyword is what a user expects to see in the search results when they search for that keyword.
+### Keyword Stuffing किसे कहते हैं ?
+Keyword  Stuffing उसे कहते हैं जब आप कोई आर्टिकल लिखते हैं उसमें जो Main keyword है उस Main keyword को अपने आर्टिकल में ज्यादा वर यूज करना ही Keyword Stuffing कहते हैं। Keyword Stuffing के द्वारा Blogger Page के Content और Meta tag में एक ही Keyword यानि की Main keyword को बार बार use करता है और ऐसा करके page की रैंकिंग को बढ़ाया जा सकता जिससे site मे traffic भी बढ़ जाता है। 
 
-### Keyword Stuffing
+Keyword Stuffing, Search Engine Optimization (SEO) का ही एक technique है जिसे Black Hat SEO कहते हैं। और इस technique मे page को गलत तरीके से Google के पहले page मे रैंक कराया जाता है लेकिन यह एक temporary तरीका है इससे आपके page मे traffic तो कुछ समय के लिए बढ़ जाता है परंतु जैसे ही Google को यह पता लगता है। 
 
-The practice of overusing a keyword in an unnatural way throughout a piece of content is known as keyword stuffing. 
+की आपने keyword Stuffing किया है। तो आपके site की ranking down हो जाती है तथा कभी भी रैंक नहीं कर सकता। इसके अलावा ऐसा करने से Google आपके site पर penalty लगा दे या site को temporary या permanently हमेशा के लिए बंद भी कर दे इसी लिए किसी भी नये bloggers के लिए keyword  Stuffing के बारे में पहले ही जान लेना चाहिए।
 
-Keyword stuffing used to work in the early days of SEO, but that all changed after a series of major Google Algorithm Updates. These days, your content can be penalized for keyword stuffing. Here is what [Google considers as keyword stuffing](https://support.google.com/webmasters/answer/66358?hl=en)
+ [Google considers as keyword stuffing](https://support.google.com/webmasters/answer/66358?hl=en)
 
 ## Key Factors to Look for While Performing Keyword Research
 
