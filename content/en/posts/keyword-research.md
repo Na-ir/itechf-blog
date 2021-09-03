@@ -3,6 +3,7 @@ title = "Free Keyword Research Method"
 author = "Iffat Zia"
 description = "Keyword Research is the heart of blogging. If you pick the right keyword you can succeed soon or later. and wise versa if you choose keywords without any research you may fail and all your efforts can be wasted. It may be a form of money it may be your precious time."
 #url = /keyword-research/
+aliases = ["/keyword-research"]
 images = [
   "images/2021/05/what-is-keyword-research.jpg"
 ]
