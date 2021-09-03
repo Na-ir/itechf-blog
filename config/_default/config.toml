@@ -1,5 +1,5 @@
 baseURL = "https://itechf.com"
-title = "I Tech Fact"
+title = "Best Tech Blog"
 theme = "hugo-theme-bootstrap"
 copyright = "Copyright © 2020-{year} iTechf. All Rights Reserved."
 
