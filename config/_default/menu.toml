@@ -32,6 +32,11 @@
   url = "/privacy-policy/"
 
 [[footer]]
+  identifier = "copy-right"
+  name = "Copy Right"
+  url = "/copy-right/"
+
+[[footer]]
   identifier = "terms-and-conditions"
   name = "Terms and Conditions"
   url = "/terms-and-conditions/"
