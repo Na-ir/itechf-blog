@@ -3,6 +3,7 @@ title = "20+ Popular Blog Ideas For Beginners In 2021"
 author = "Iffat Zia"
 description = "Blog Ideas For Beginners Are you looking to start a blog? That is great I would like to congratulate a simple purpose, to share with new bloggers some examples of successful and famous blogs"
 #url = "/blog-ideas-for-beginners/"
+aliases = ["/blog-ideas-for-beginners"]
 images = [
   "images/2021/05/Blog-Ideas.jpg"
 ]
