@@ -16,7 +16,7 @@ paginate = 5
 # disqusShortname = "yourdiscussshortname"
 
 # Google analytics
-# googleAnalytics = "UA-186342590-1"
+googleAnalytics = "UA-186342590-1"
 
 enableRobotsTXT = true
 
@@ -30,9 +30,14 @@ pygmentsUseClasses = true
   hrefTargetBlank = true
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON", "AMP"]
 
 [taxonomies]
   category = "categories"
   series = "series"
   tag = "tags"
+
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
