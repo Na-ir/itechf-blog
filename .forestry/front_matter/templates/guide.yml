@@ -32,5 +32,3 @@ fields:
 - type: boolean
   name: reward
   label: reward
-pages:
-- content/hi/guide/seo-basics-guide.md
