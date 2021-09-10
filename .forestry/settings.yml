@@ -16,7 +16,7 @@ sections:
   label: Hi
   create: all
   match: "**/*"
-upload_dir: 'static/images/:year:/:month:'
+upload_dir: static/images
 public_path: "/images/:year:/:month:"
 front_matter_path: ''
 use_front_matter_path: false
