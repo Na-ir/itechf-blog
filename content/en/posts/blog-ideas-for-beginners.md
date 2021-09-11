@@ -5,8 +5,9 @@ description = "Blog Ideas For Beginners Are you looking to start a blog? That is
 #url = "/blog-ideas-for-beginners/"
 aliases = ["/blog-ideas-for-beginners"]
 images = [
-  "images/2021/05/Blog-Ideas.jpg"
+  "images/2021/09/blog-writing.png", "images/2021/09/articale-writing.png"
 ]
+
 categories = [
   "Blogging"
 ]
