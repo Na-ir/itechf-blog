@@ -3,6 +3,7 @@ title = "20+ Popular Blog Ideas For Beginners In 2021"
 author = "Iffat Zia"
 description = "Blog Ideas For Beginners Are you looking to start a blog? That is great I would like to congratulate a simple purpose, to share with new bloggers some examples of successful and famous blogs"
 #url = "/blog-ideas-for-beginners/"
+aliases = ["/blog-ideas-for-beginners"]
 images = [
   "images/2021/05/Blog-Ideas.jpg"
 ]
@@ -18,6 +19,7 @@ draft = false
 comment = true
 toc = true
 reward = false
+creativeCommons.by = false
 +++
 
 These days everyone wants to earn some money online. And there are so many ways to earn online. The most effective and popular method is creating a blog. Creating a random blog not going to work in this very competitive market. First, you need to find out a Niche for your blog.
