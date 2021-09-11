@@ -4,7 +4,7 @@ author = "Iffat Zia"
 description = "क्या आप अपना Blog शुरू करना चाहते हैं ये बहुत अच्छा विचार है इसके लिए मे आपको बधाई देना चाहता हुँ इस आर्टिकल में  न्यू  Blog शुरू करने के  लिए ढेर सारा topic शेयर कर रहा हूं इनमें से कोई भी topic अपने Blog के लिए चुन सकते हैं। "
 #url = "/blog-ideas-for-beginners/"
 images = [
-  "images/2021/05/Blog-Ideas.jpg"
+  "images/2021/09/blog-writing.png"
 ]
 categories = [
   "Blogging"
