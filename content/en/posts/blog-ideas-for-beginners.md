@@ -52,6 +52,8 @@ Traveling is a part of life. You are going to some purpose but you need a way or
 
 The first step to starting a travel blog is deciding a name for it. Your blog name will be the first impression that you have on people, so it’s necessary to pick a good one.
 
+**Don't Miss:** [SEO Basics Guide](https://itechf.com/hi/posts/seo-basics/)
+
 ### Fashion Blog Ideas
 
 Fashion is another evergreen niche on which one starts his blog. Being a fashion blogger is an amazing way to create a career in an industry that you love. Mainly I see girls are also interested in fashion.

@@ -41,6 +41,8 @@ That is why finding the right keywords is so important in SEO. Once you find phr
 
 The keywords are discovered through a process called **keyword research**.
 
+**Don't Miss:** [SEO Basics Guide](https://itechf.com/hi/posts/seo-basics/)
+
 ## Why Is Keyword Research Important?
 
 Keyword Research is the process of finding the best and most relevant keywords to include in your content that may search your target audience. Making the right keyword plan with proper keyword research and placement is vital for improving the searchability of your content for the right audience.
